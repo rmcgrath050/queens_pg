@@ -1,0 +1,365 @@
+/*default styles for all of application 
+was used for welcome page orginally */
+.progress_app{
+    font-family: Helvetica,Arial,sans-serif;
+}
+
+
+
+/*side bar of application */
+
+.main-header .logo {
+
+}
+
+/* active selected tab in the sidebarmenu */
+.skin-blue .main-sidebar .sidebar .sidebar-menu .active a{
+ border-left-color:#bcab3c; 
+  }
+
+/* other links in the sidebarmenu */
+.skin-blue .main-sidebar .sidebar .sidebar-menu a{
+  
+  }
+
+/* other links in the sidebarmenu when hovered */
+.skin-blue .main-sidebar .sidebar .sidebar-menu a:hover{
+    border-left-color:#bcab3c; 
+    
+  }
+    
+    
+/* menu for hoover side bar being blue - come back to solve at later date */
+.skin-blue .sidebar-menu> .active> .skin-blue .sidebar-menu> a:hover{
+  border-left-color: #bcab3c; !important
+  
+  }
+
+    
+/* test 2  */
+li.active{
+  border-left-color: #2b332a; !important
+  
+  }
+    
+    
+/*top navbar of application 
+background-color: #60705d !important*/
+.logo {
+  background-color:   #303b2f!important
+  
+  }
+
+
+.navbar {
+  background-color:   #303b2f!important
+  
+  }
+
+
+.navbar a:hover {
+  background-color: #2b332a !important
+  
+  }
+
+
+.main-sidebar{
+   background-color: #222921 !important
+   
+  }
+  
+  
+/*
+ Welcome tab
+  color: #1a3300;
+  'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif
+*/  
+.welcome_page{
+  background-color: white;
+  align-items: center;
+  text-align: center;
+  font-size: 17px;
+
+
+}
+
+  
+.page_instructions{
+  text-align: left;
+}  
+  
+
+.startButton{
+     background-color:#D2B48C;
+      font-size: 20px;
+
+}
+  
+/*Generator tab css below
+
+
+- generator_hero = styling of title
+- gen_tab - styling of overall second tab on dashboard 
+
+stylying of input selections 
+
+
+
+
+.input-group .csc1022_file_progress{
+    padding-left:50%;
+      background-color: white 
+      
+      .form_page{
+        background-color: white;
+        }
+     
+}
+
+font-family: Helvetica, sans-serif;
+
+    background-color: #707070;
+*/
+ 
+.gen_tab{
+    background-color: white
+
+}
+ 
+.generator_hero{
+    background: #ffeecc;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 60px;
+ 
+}
+
+
+
+
+
+/* 
+
+
+
+.btn-default {
+  background-color: #ffd480;
+    padding: 15px 32px;
+    text-align: center;
+      font-size: 16px;
+}
+
+Progression results tab
+  text-align: center;
+}
+
+
+.progression_hero{
+  background-color: white
+}
+
+*/
+
+
+.progression{
+  background: white;
+}
+
+
+
+.progression_header{
+  padding: 60px;
+  text-align: center;
+  background: #ffeecc;
+  color: black;
+  font-size: 15px;
+}
+
+
+.wanring{
+  color: red;
+}
+
+
+.mybox{
+    background-color: #E5D2C4
+}
+
+/* 
+
+About page
+- about generator hero 
+
+
+*/
+
+/* 
+
+summary page
+  border-style: solid;
+*/
+
+
+.summary_header{
+  padding: 60px;
+  text-align: center;
+  background: #ffeecc;
+  color: black;
+  font-size: 15px;
+}
+
+
+.header {
+
+}
+
+
+.summary_page{
+  background-color: white;
+}
+
+.bar_chart{
+
+  align-content: center;
+}
+
+
+
+/* spare code
+#line across page - black color 
+
+ABOUT PAGE
+
+Arial, , sans-serif;
+*/
+
+
+
+
+.break{
+  
+  background-color: black;
+  
+}
+
+
+/*background not working */
+.about_page {
+  background-color: white
+  align-items: center;
+  color: black;
+  font-family: Helvetica
+  font-size: 25px;
+}
+
+
+.about_header{
+  padding: 60px;
+  text-align: center;
+  background:  #303b2f;
+  color: white;
+
+}
+
+
+
+.about_body{
+    background-color: white
+}
+
+
+
+
+
+
+
+/* semster buttons 
+  text-align: center;
+#206040
+
+
+#about{
+    background-color: #ffd480;
+                     border: 2px solid grey;
+                    font-size: 16px;
+                    font-weight : bold ;
+}
+
+
+.about_page_heading{
+  background-color: white;
+  border-style: solid;
+  border-color: # #206040
+
+
+}
+
+
+
+.about_page{
+  background-color: #206040
+  align-items: center;
+  color: black;
+}
+
+
+
+
+
+
+
+#ffdead;  - mustard
+
+
+
+
+.dataTables_scrollHeadInner{
+     background-color: yellow;
+}
+
+
+#####updates the color yellow on scroller
+.tr{
+      background-color: yellow;
+}
+
+.dataTables_scrollHead{
+    background-color: black
+    color; white
+}
+
+
+#dt_ouput{
+     background-color: black
+    color; white
+}
+
+
+
+.table.dataTable .thead .th{
+  background-color: pink;
+}
+
+
+.display .dataTable .no-footer{
+    background-color: yellow;
+}
+
+
+
+.btn-group> .btn-group {
+  padding: 15px;
+
+}
+
+
+
+
+
+
+*/
+
+
+
+
+
